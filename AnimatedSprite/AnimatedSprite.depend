@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1750813268 source:c:\users\davi\documentos\opengl\animatedsprite\main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<iostream>
+	"CharacterController.h"
+
+1750727519 c:\users\davi\documentos\opengl\animatedsprite\include\spriteanimado.h
+	<GL/glew.h>
+	<glm/glm.hpp>
+	<string>
+
+1750816408 source:c:\users\davi\documentos\opengl\animatedsprite\src\spriteanimado.cpp
+	"SpriteAnimado.h"
+	<../stb_image.h>
+	<iostream>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+
+1748987909 c:\users\davi\documentos\opengl\animatedsprite\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1750816296 source:c:\users\davi\documentos\opengl\animatedsprite\src\charactercontroller.cpp
+	"CharacterController.h"
+
+1750816168 c:\users\davi\documentos\opengl\animatedsprite\include\charactercontroller.h
+	"SpriteAnimado.h"
+	<GLFW/glfw3.h>
+
+1750728253 source:c:\users\davi\documentos\opengl\animatedsprite\include\stb_image.cpp
+
+1750728297 source:c:\users\davi\documentos\opengl\animatedsprite\src\stb_image.cpp
+	"../stb_image.h"
+
